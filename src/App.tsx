@@ -21,9 +21,10 @@ function App() {
 
   return (
     <Container size="md" pt="xl">
-      <Title align="center" order={2} mb="lg">
+   <Title order={2} mb="lg" style={{textAlign:"center"}}>
         RSP Petrol/Diesel - Metro Cities
-      </Title>
+</Title>
+
 
       <Paper shadow="xs" radius="md" p="md" withBorder>
         <Flex gap="md" justify="center" wrap="wrap">

@@ -17,7 +17,7 @@ export function FilterSelect({ label, data, value, onChange }: Props) {
       onChange={(v) => onChange(v || '')}
       size="md"
       searchable
-      nothingFound="No options"
+// nothingFound="No options"
       withAsterisk
       w={220}
     />
