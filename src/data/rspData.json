@@ -1,0 +1,3026 @@
+[
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 85
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 102
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 92
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 90
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 90
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 86
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 102
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 88
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 89
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 89
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 88
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 89
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 97
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 85
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "January",
+    "price": 97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "February",
+    "price": 98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "March",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "April",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "May",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "June",
+    "price": 97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "July",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "August",
+    "price": 98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "September",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "October",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "November",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2021,
+    "month": "December",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "January",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "February",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "March",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "April",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "May",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "July",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "August",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "September",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "October",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "November",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2021,
+    "month": "December",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 102
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 102
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 102
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 90
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 90
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 86
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 101
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 102
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 102
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 89
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 97
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 96
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 97
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 85
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 85
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "January",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "February",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "March",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "April",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "May",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "June",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "July",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "August",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "September",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "October",
+    "price": 97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "November",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2022,
+    "month": "December",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "January",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "February",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "March",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "April",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "May",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "June",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "July",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "August",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "September",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "October",
+    "price": 87
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "November",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2022,
+    "month": "December",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 96
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 94
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 97
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 95
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 93
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 84
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 87
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 85
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 86
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 83
+  },
+  {
+    "city": "Delhi",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 102
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 98
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 99
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 101
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 90
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 92
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 91
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 88
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 89
+  },
+  {
+    "city": "Mumbai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 92
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 97
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 98
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 101
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 99
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 100
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 87
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 86
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 89
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 88
+  },
+  {
+    "city": "Chennai",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 101
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 102
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 103
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 99
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 101
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 100
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 88
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 87
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 89
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 88
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 88
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 90
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 91
+  },
+  {
+    "city": "Bangalore",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 96
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 96
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 100
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 99
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 98
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 87
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 86
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 85
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 88
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 89
+  },
+  {
+    "city": "Hyderabad",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "January",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "February",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "March",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "April",
+    "price": 98
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "May",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "June",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "July",
+    "price": 96
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "August",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "September",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "October",
+    "price": 97
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "November",
+    "price": 94
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Petrol",
+    "year": 2023,
+    "month": "December",
+    "price": 95
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "January",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "February",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "March",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "April",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "May",
+    "price": 88
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "June",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "July",
+    "price": 86
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "August",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "September",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "October",
+    "price": 85
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "November",
+    "price": 84
+  },
+  {
+    "city": "Kolkata",
+    "fuel": "Diesel",
+    "year": 2023,
+    "month": "December",
+    "price": 85
+  }
+]
